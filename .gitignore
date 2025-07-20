@@ -1,0 +1,21 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# macOS files
+.DS_Store
+
+# Virtual environments (optional, in case you use venvs in project dir)
+venv/
+env/
